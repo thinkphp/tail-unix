@@ -1,0 +1,19 @@
+opening application
+logging message 1
+logging message 2
+logging message 3
+logging message 4
+logging message 5
+logging message 6
+logging message 7
+logging message 8
+logging message 9
+logging message 10
+logging message 11
+logging message 12
+logging message 13
+logging message 14
+logging message 15
+logging message 16
+logging message 17
+shutting down application
